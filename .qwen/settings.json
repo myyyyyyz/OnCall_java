@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir *)",
+      "Bash(mvn *)",
+      "Bash(del *)",
+      "Bash(timeout *)",
+      "Bash(curl *)",
+      "Bash(powershell *)",
+      "Bash(type *)",
+      "Bash(taskkill *)",
+      "Bash(findstr *)",
+      "Bash(java *)",
+      "Bash(mysql *)",
+      "Bash(node *)",
+      "Bash(certutil *)",
+      "Bash(python *)",
+      "Bash(netstat *)",
+      "Bash(tasklist)",
+      "Bash(make *)",
+      "Bash(pkill *)",
+      "Bash(wsl *)",
+      "Bash(sleep *)",
+      "Bash(sed *)",
+      "Bash(start *)",
+      "Bash(ping *)"
+    ]
+  },
+  "$version": 3
+}
